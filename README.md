@@ -1,6 +1,7 @@
 # Welcome to my webpage
 
-in this webpage I want to talk about Apple company
+In this webpage I want to talk about Apple company.
+I hope tou like it
 
 ## 1976–1984: Founding and incorporation
 
@@ -76,8 +77,6 @@ Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 * Susan Wagner (non-executive director)
 
 ## APPLE INC
-
-< img src="https://cdn.vox-cdn.com/thumbor/zO8ZljxVm38pXYzJq1703y0X9LA=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/64148796/shutterstock_1135091624__1_.0.jpg">
 
 ![GitHub Logo](https://cdn.vox-cdn.com/thumbor/zO8ZljxVm38pXYzJq1703y0X9LA=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/64148796/shutterstock_1135091624__1_.0.jpg)
 
