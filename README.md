@@ -61,13 +61,26 @@ Apple TV is a digital media player and microconsole developed and sold by Apple 
 Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 ----  | ------------------ | ---------------------- | -----------------------
 2000 | 7,983 |  786 | 6,803	
-2003
-2006
-2009
-2012
-2015
-2018
+2003 | 6,207 | 69 | 6,815	
+2006 | 19,315	| 1,989	 | 17,205	
+2009 | 42,905 | 8,235	 | 47,501
+2012 | 156,508	| 41,733 | 176,064
+2015 | 233,715 | 53,394	 | 290,345
+2018 | 265,595 | 59,531 | 365,725
 
+## Board of directors
+
+* Arthur D. Levinson (chairman)
+* Tim Cook (executive director and CEO)
+* James A. Bell (non-executive director)
+* Al Gore (non-executive director)
+* Andrea Jung (non-executive director)
+* Ronald Sugar (non-executive director)
+* Susan Wagner (non-executive director)
+
+## APPLE INC
+
+![Image](https://en.wikipedia.org/wiki/File:Apple_park_cupertino_2019.jpg)
 
 
 
@@ -80,7 +93,7 @@ Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
