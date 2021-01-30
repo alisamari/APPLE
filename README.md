@@ -39,6 +39,39 @@ During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announce
 
 The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.
 
+* ### iPod
+
+An iPod is a portable MP3 and media player developed by Apple and available for the Mac and PC that first began being sold on October 23, 2001. The iPod is capable of holding up to 10,000 songs, is easy to use, and is very portable. All these features and its great look is why it's such a popular device. Although not required, many iPod users use Apple iTunes to purchase and download songs.
+
+* ### ipad
+
+The iPad is a tablet computer developed by Apple. It is smaller than a typical laptop, but significantly larger than the average smartphone. The iPad does not include a keyboard or a trackpad, but instead has a touchscreen interface, which is used to control the device.
+
+* ### Apple Watch
+
+Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services.
+The Apple Watch was released in April 2015 and quickly became the best-selling wearable device.
+
+* ### Apple TV
+
+Apple TV is a digital media player and microconsole developed and sold by Apple Inc. It is a small network appliance and entertainment device that can receive digital data for visual and audio content such as music, video, video games, or the screen display of certain other devices, and play it on a connected television set or other video display.
+
+## finance
+
+Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
+----  | ------------------ | ---------------------- | -----------------------
+2000 | 7,983 |  786 | 6,803	
+2003
+2006
+2009
+2012
+2015
+2018
+
+
+
+
+
 - Bulleted
 - List
 
