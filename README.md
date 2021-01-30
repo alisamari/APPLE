@@ -82,7 +82,7 @@ Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 
 < img src="https://cdn.vox-cdn.com/thumbor/zO8ZljxVm38pXYzJq1703y0X9LA=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/64148796/shutterstock_1135091624__1_.0.jpg">
 
-!
+![GitHub Logo](https://cdn.vox-cdn.com/thumbor/zO8ZljxVm38pXYzJq1703y0X9LA=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/64148796/shutterstock_1135091624__1_.0.jpg)
 
 
 - Bulleted
