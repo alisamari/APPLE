@@ -80,7 +80,7 @@ Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 
 ## APPLE INC
 
-![Image](https://en.wikipedia.org/wiki/File:Apple_park_cupertino_2019.jpg)
+< img src="https://en.wikipedia.org/wiki/File:Apple_park_cupertino_2019.jpg">
 
 
 
