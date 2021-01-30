@@ -14,12 +14,7 @@ Jobs and several Apple employees, including human–computer interface expert Je
 Jobs was immediately convinced that all future computers would use a graphical user interface (GUI), and development of a GUI began for the Apple Lisa.
 
 ### 1984–1991: Success with Macintoshaa
-
-
-
-# Header 1
-## Header 2
-### Header 3
+appppppllllee
 
 - Bulleted
 - List
