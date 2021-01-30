@@ -13,7 +13,7 @@ By the end of the 1970s, Apple had a staff of computer designers and a productio
 Jobs and several Apple employees, including human–computer interface expert Jef Raskin, visited Xerox PARC in December 1979 to see a demonstration of the Xerox Alto. Xerox granted Apple engineers three days of access to the PARC facilities in return for the option to buy 100,000 shares (5.6 million split-adjusted shares as of March 30, 2019) of Apple at the pre-IPO price of $10 a share.
 Jobs was immediately convinced that all future computers would use a graphical user interface (GUI), and development of a GUI began for the Apple Lisa.
 
-### 1984–1991: Success with Macintosh
+### 1984–1991: Success with Macintoshaa
 
 
 
