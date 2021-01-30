@@ -80,9 +80,9 @@ Year | Revenue in mil. USD | Net income in mil. USD | Total assets in mil. USD
 
 ## APPLE INC
 
-< img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FzO8ZljxVm38pXYzJq1703y0X9LA%3D%2F0x0%3A4000x3000%2F1200x800%2Ffilters%3Afocal(1680x1180%3A2320x1820)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F64148796%2Fshutterstock_1135091624__1_.0.jpg&imgrefurl=https%3A%2F%2Fsf.curbed.com%2F2019%2F6%2F28%2F19102722%2Fapple-park-jony-ive-design-architecture-silicon-valley&tbnid=jNroHfz0r5w2rM&vet=10CAMQxiAoAGoXChMIwJSlio3D7gIVAAAAAB0AAAAAEAY..i&docid=Yfj68zBU-H9SIM&w=1200&h=800&itg=1&q=apple%20company&ved=0CAMQxiAoAGoXChMIwJSlio3D7gIVAAAAAB0AAAAAEAY">
+< img src="https://cdn.vox-cdn.com/thumbor/zO8ZljxVm38pXYzJq1703y0X9LA=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/64148796/shutterstock_1135091624__1_.0.jpg">
 
-
+!
 
 
 - Bulleted
