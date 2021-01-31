@@ -1,7 +1,7 @@
 # Welcome to my webpage
-<P> I LOVE YOU </p>
-In this webpage I want to talk about Apple company.
-I hope tou like it
+<P> In this webpage I want to talk about Apple company.</p>
+<br>
+<p> I hope tou like it </P>
 
 ## 1976–1984: Founding and incorporation
 
