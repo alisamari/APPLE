@@ -1,8 +1,7 @@
 ## APPLE
 <hr>
 <P> In this webpage I want to talk about Apple company.</p>
-<br>
-<p> I hope tou like it </P>
+<p> I hope you like it </P>
 
 ## 1976–1984: Founding and incorporation
 <hr>
